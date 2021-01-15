@@ -13,6 +13,9 @@
     "prettier": "^2.1.2",
     "typescript": "^4.1.2"
   },
+  "resolutions": {
+    "microsite/snowpack": "3.0.0-rc.2"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
